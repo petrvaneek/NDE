@@ -1,0 +1,7 @@
+../Core/Src/lcd.c:4:6:send_to_lcd	16	static
+../Core/Src/lcd.c:21:6:lcd_send_cmd	32	static
+../Core/Src/lcd.c:31:6:lcd_send_data	32	static
+../Core/Src/lcd.c:43:6:lcd_put_cur	16	static
+../Core/Src/lcd.c:56:6:lcd_init	8	static
+../Core/Src/lcd.c:81:6:lcd_send_string	16	static
+../Core/Src/lcd.c:85:6:lcd_clear	8	static
